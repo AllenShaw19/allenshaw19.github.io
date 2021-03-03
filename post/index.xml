@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 碎碎念居酒屋</title>
+    <link>https://allenshaw19.github.io/post/</link>
+    <description>Recent content in Posts on 碎碎念居酒屋</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 01:35:47 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Mar 2021 01:35:47 +0800</lastBuildDate><atom:link href="https://allenshaw19.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/post/my-first-post/</link>
+      <title>Hello World</title>
+      <link>https://allenshaw19.github.io/2021/03/hello-world/</link>
       <pubDate>Wed, 03 Mar 2021 01:35:47 +0800</pubDate>
       
-      <guid>http://example.org/post/my-first-post/</guid>
-      <description></description>
+      <guid>https://allenshaw19.github.io/2021/03/hello-world/</guid>
+      <description>这是第一篇文章，按照习惯起hello world作为标题，后续慢慢的把原来博客的文章搬运过来，希望github保持免费不倒闭吧。</description>
     </item>
     
   </channel>

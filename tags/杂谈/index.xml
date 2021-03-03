@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>碎碎念居酒屋</title>
-    <link>https://allenshaw19.github.io/</link>
-    <description>Recent content on 碎碎念居酒屋</description>
+    <title>杂谈 on 碎碎念居酒屋</title>
+    <link>https://allenshaw19.github.io/tags/%E6%9D%82%E8%B0%88/</link>
+    <description>Recent content in 杂谈 on 碎碎念居酒屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Mar 2021 01:35:47 +0800</lastBuildDate><atom:link href="https://allenshaw19.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Mar 2021 01:35:47 +0800</lastBuildDate><atom:link href="https://allenshaw19.github.io/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://allenshaw19.github.io/2021/03/hello-world/</link>
