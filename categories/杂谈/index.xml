@@ -13,10 +13,7 @@
       <pubDate>Wed, 03 Mar 2021 01:35:47 +0800</pubDate>
       
       <guid>https://allenshaw19.github.io/2021/03/hello-world/</guid>
-      <description>这是第一篇文章，按照习惯起hello world作为标题，后续慢慢的把原来博客的文章搬运过来，希望github保持免费不倒闭吧。 有一说一，hugo涉及到图片真的好麻烦，比如配置头像，如果用的本地图片，是不能配置gravatarEmail的
- config.tomlconfig.toml     1
-2
-  # gravatarEmail = &amp;#34;allenshaw19@gmail.com&amp;#34; picture = &amp;#34;images/avatar.jpg&amp;#34;      </description>
+      <description>这是第一篇文章，按照习惯起hello world作为标题，后续慢慢的把原来博客的文章搬运过来，这一篇纯粹是吐槽文章……</description>
     </item>
     
   </channel>
